@@ -8,4 +8,3 @@ To build a loan recovery system with Machine Learning, we will use a dataset con
 -Repayment History: Number of missed payments, days past due, and monthly EMI payments.
 -Collection Efforts: Collection methods used, number of recovery attempts, and legal actions taken.
 -Loan Recovery Status: Whether the loan was fully recovered, partially recovered, or remains outstanding.
-
